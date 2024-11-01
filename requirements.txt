@@ -1,5 +1,2 @@
-langchain
-langchain-google-genai
-langchain-community
-streamlit-mic-recorder
-gtts
+streamlit==1.17.0
+google-generativeai==0.1.1
